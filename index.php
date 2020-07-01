@@ -11,7 +11,6 @@
 
   <!-- Favicons -->
   <link href="assets/img/favicon.ico" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -45,7 +44,7 @@
     <div class="d-flex flex-column">
 
       <div class="profile">
-        <img src="assets/img/test1.jpg" alt="" class="img-fluid rounded-circle">
+        <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
         <h1 class="text-light"><a href="index.html">Alex Cronț</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="https://www.facebook.com/cront.alexandru" class="facebook"><i class="bx bxl-facebook" target="_blank"></i></a>
