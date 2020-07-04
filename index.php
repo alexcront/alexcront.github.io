@@ -299,7 +299,7 @@ Engineering, representing the students in the Faculty Council and University Sen
     </section><!-- End Resume Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio section-bg">
+<!--     <section id="portfolio" class="portfolio section-bg">
       <div class="container">
 
         <div class="section-title">
@@ -413,7 +413,7 @@ Engineering, representing the students in the Faculty Council and University Sen
         </div>
 
       </div>
-    </section><!-- End Portfolio Section -->
+    </section> --><!-- End Portfolio Section -->
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
