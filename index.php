@@ -267,29 +267,52 @@ Engineering, representing the students in the Faculty Council and University Sen
               <p><em>"Gheorghe Asachi" Technical University, Iași, Romania</em></p>
               <p>The Information Technology program provides future engineers with a thorough training covering a broad thematic area in the field of computers and information technology, with emphasis on programming engineering techniques for the development of complex applications. Starting from fundamental elements of mathematics, physics or computer programming, the study program provides, on the one hand, specialized knowledge of computer architecture, operating systems, computer networks and distributed systems, and, on the other hand, knowledge programming, algorithms and data structures, modeling and simulation techniques, databases, parallel and distributed algorithms, graphics processing techniques, web programming, information retrieval techniques on the web, etc. The program also provides complementary knowledge of English, Economics and Marketing.</p>
             </div>
-
             <h3 class="resume-title">Volunteering</h3>
             <div class="resume-item">
               <h4>President</h4>
               <h5>March 2016 - December 2017</h5>
               <a href="https://www.lsaciasi.ro" target="_blank"><p><em>League of students of the Faculty of Automatic Control and Computer Engineering, Iași, Romania</em></p></a>
-              <p>The Master’s in Distributed Systems and Web Technologies provides students with basic computer programming and algorithm design, in-depth knowledge of parallel and distributed computing, including advanced algorithms specific to these paradigms, distributed application design, cluster technologies, grid and cloud concepts, service oriented programming techniques, modeling and estimation of distributed system reliability, image processing and distributed visualization as well as analysis and development of multi-agent systems.</p>
+              <li>Coordinate around 100 members.</li>
+              <li>Helping with training and development.</li>
+              <li>Monitor and review members participation in activities.</li>
+              <li>Maintain a good relationship with other NGOs, the faculty, the university and companies.</li>
+              <li>Coordinate the projects developed by the NGO.</li>
+              <li>Coordinate the IT contest "IT Marathon", 2016 edition, organized by L.S.A.C. Managed to increase the number of participating, upgrading the contest from local to national contest having participants from Bucharest, Timișoara, Suceava, Craiova, Cluj and Bacău. Creating a new section for mobile development increasing the number of participants. Managed to get guvernamental funds of 8000 RON for the contest.</li>
             </div>
             <div class="resume-item">
               <h4>General Secretary</h4>
               <h5>May 2015 - February 2016</h5>
               <a href="https://www.lsaciasi.ro" target="_blank"><p><em>League of students of the Faculty of Automatic Control and Computer Engineering, Iași, Romania</em></p></a>
-              <li>Helping with training and development</li>
-              <li>Monitor members participation in projects</li>
-              <li>Stay in contact with other NGOs, the faculty, the university and companies</li>
-              <li>Manage the flow of operations</li>
+              <li>Helping with training and development.</li>
+              <li>Monitor members participation in projects.</li>
+              <li>Stay in contact with other NGOs, the faculty, the university and companies.</li>
+              <li>Manage the flow of operations.</li>
             </div>
             <div class="resume-item">
               <h4>Member</h4>
               <h5>October 2014 - April 2015</h5>
               <a href="https://www.lsaciasi.ro" target="_blank"><p><em>League of students of the Faculty of Automatic Control and Computer Engineering, Iași, Romania</em></p></a>
               <li>Involved in the projects developed by L.S.A.C.</li>
-              <li>Coordinate the advertising for the National IT contest "IT Marathon", 2015 edition, organized by L.S.A.C. Created the first version of the contest website <a href="https://www.itmarathon.lsaciasi.ro" target="_blank">itmarathon.lsaciasi.ro</a></li>
+              <li>Coordinate the advertising for the IT contest "IT Marathon", 2015 edition, organized by L.S.A.C. Created the first version of the contest website <a href="https://www.itmarathon.lsaciasi.ro" target="_blank">itmarathon.lsaciasi.ro</a>.</li>
+            </div>
+            <div class="resume-item">
+              <h4>Head of the IT department</h4>
+              <h5>October 2017 - February 2018</h5>
+              <a href="https://www.unsr.ro" target="_blank"><p><em>Uniunea Nationala a Studentilor din Romania</em></p></a>
+              <li>Help the IT departments from all the NGOs inside UNSR for IT issues they encountered.</a></li>
+              <li>Create the webpage for the national event Studențiada, 2017 edition.</a></li>
+            </div>
+            <div class="resume-item">
+              <h4>Student Representative in the Faculty Council</h4>
+              <h5>Feebruary 2016 - July 2019</h5>
+              <a href="https://www.ac.tuiasi.ro" target="_blank"><p><em>Faculty of Automatic Control and Computer Engineering</em></p></a>
+              <li>Representing the students of Faculty of Automatic Control and Computer Engineering, Iasi in the Faculty Council.</li>
+            </div>
+            <div class="resume-item">
+              <h4>Student Senator</h4>
+              <h5>February 2016 - July 2019</h5>
+              <a href="https://www.tuiasi.ro" target="_blank"><p><em>"Gheorghe Asachi" Technical University of Iași</em></p></a>
+              <li>Representing the students of Faculty of Automatic Control and Computer Engineering in the Senate of Technical University "Gheorge Asachi" Iași.</a></li>
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
@@ -298,33 +321,67 @@ Engineering, representing the students in the Faculty Council and University Sen
               <h4>Software Engineer</h4>
               <h5>August 2019 - Present</h5>
               <p><em>Expleo Iberia, Barcelona, Spain </em></p>
+              <p><strong>Developed a 48V battery management for MBL Evo and Audi AG platform, mainly on the BSW layer. Client: A123 System</strong></p>
               <ul>
-                <li>Developing a 48V battery management for MBL Evo and Audi AG platform Main tasks: Integration of CAN and CAN FD, integration of sleep/wake up, implementation of a Network manager state machine to fulfill the requirements, integration of new SW-C</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                <li>Software Development using C/C embedded programming language (in accordance with MISRA coding rules);</li>
+                <li>Design and implement AUTOSAR Software Components using DaVinci Developer tool;</li>
+                <li>Configure and generate basic software and runtime environment using DaVinci Configurator tool;</li>
+                <li>Debug the code implementation using WinIDEA tool and Canoe for signal simulation on the CAN;</li>
+                <li>Write documentation for the new concepts added to the project;</li>
+                <li>SW-Configuration Management(SVN);</li>
+                <li>Flash software on physical hardware (WinIDEA, vFlash);</li>
               </ul>
+              <p><strong>Put the bases for a 48V battery management demo project NBO. Client: A123 Systems</strong></p>
             </div>
             <div class="resume-item">
               <h4>Technical Specialist</h4>
               <h5>March 2019 - July 2019</h5>
               <p><em>Expleo Romania, Iași, Romania</em></p>
+              <p><strong>Developed a 48V battery management for Volvo platform, mainly on the BSW layer. Customer: A123 Systems GmbH. </strong></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                <li>Software Development using C/C embedded programming language (in accordance with MISRA coding rules);</li>
+                <li>Design and implement AUTOSAR Software Components using DaVinci Developer tool;</li>
+                <li>Configure and generate basic software and runtime environment using DaVinci Configurator tool;</li>
+                <li>Debug the code implementation using WinIDEA tool and Canoe for signal simulation on the CAN;</li>
+                <li>Write documentation for the new concepts added to the project;</li>
+                <li>SW-Configuration Management(SVN);</li>
+                <li>Flash software on physical hardware (WinIDEA, vFlash);</li>
+              </ul>
+              <p><strong>Involved also in: </strong></p>
+              <ul>
+                <li>Quality reviews</li>
+                <li>Provide technical training for projects</li>
+                <li>Responds to the solicitation of my colleagues on my area of expertise</li>
+                <li>Implements progress plans according to the instructions of my manager</li>
+                <li>Become involved in the technical integration of new team members</li>
+                <li>Capitalize the know-how by writing methodological guides</li>
+                <li>Attend technical meetings, draft meeting CRs</li>
               </ul>
             </div>
             <div class="resume-item">
               <h4>Software Developer</h4>
               <h5>July 2017 - February 2019</h5>
               <p><em>Expleo Romania, Iași, Romania</em></p>
+              <p><strong>Working on ZF TRW project (Electronic Brake Booster) for Volkswagen, mainly on the application layer:</strong></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                <li>Software Development using C/C embedded programming language (in accordance with MISRA coding rules);</li>
+                <li>Design and implement AUTOSAR Software Components using DaVinci Developer tool;</li>
+                <li>Configure and generate basic software and runtime environment using DaVinci Configurator tool;</li>
+                <li>Debug the code implementation using Trace32 tool and Canoe for signal simulation on the CAN;</li>
+                <li>Perform Unit Test on the code using VectorCast tool;</li>
+                <li>Write documentation for the new concepts added to the project;</li>
+                <li>Perform QAC analysis to assure that the code is MISRA error free;</li>
+                <li>SW-Configuration Management (PTC Integrity);</li>
+                <li>Analyze System Requirements (DOORS);</li>
+                <li>Flash software on physical hardware (LAUTERBACH, vFlash);</li>
+              </ul>
+              <p><strong>Involved also in: </strong></p>
+              <ul>
+                <li>Teaching programming skills for new generations of employees;</li>
+                <li>Developing internal project procedures;</li>
+                <li>Software specification review;</li>
+                <li>Evaluate the skills of the potential candidates for Embedded Engineer position;</li>
+                <li>Coordinating the internship program for the summer of 2018.</li>
               </ul>
             </div>
             <div class="resume-item">
@@ -332,10 +389,8 @@ Engineering, representing the students in the Faculty Council and University Sen
               <h5>September 2016 - February 2017</h5>
               <p><em>GEMINI CAD SYSTEMS, Iași, Romania</em></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                <li>Involved in the UI part and adding new features on Pattern Design application;</li>
+                <li>Technologies used: Qt, C++;</li>
               </ul>
             </div>
             <div class="resume-item">
@@ -343,10 +398,7 @@ Engineering, representing the students in the Faculty Council and University Sen
               <h5>July 2016 - September 2016</h5>
               <p><em>GEMINI CAD SYSTEMS, Iași, Romania</em></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                <li>Developing a desktop application with Qt and C++ for task management. The role of this project was to accommodate with Qt framework.</li>
               </ul>
             </div>
             <div class="resume-item">
@@ -354,10 +406,8 @@ Engineering, representing the students in the Faculty Council and University Sen
               <h5>May 2015 - April 2016</h5>
               <p><em>Continental Romania, Iași, Romania</em></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                <li>Working in the IIC department, in the HMI team, on speech recognition project using C++.</li>
+                <li>Working with Agile software development methodology.</li>
               </ul>
             </div>
           </div>
