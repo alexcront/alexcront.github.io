@@ -267,24 +267,92 @@ Engineering, representing the students in the Faculty Council and University Sen
               <p><em>"Gheorghe Asachi" Technical University, Iași, Romania</em></p>
               <p>The Information Technology program provides future engineers with a thorough training covering a broad thematic area in the field of computers and information technology, with emphasis on programming engineering techniques for the development of complex applications. Starting from fundamental elements of mathematics, physics or computer programming, the study program provides, on the one hand, specialized knowledge of computer architecture, operating systems, computer networks and distributed systems, and, on the other hand, knowledge programming, algorithms and data structures, modeling and simulation techniques, databases, parallel and distributed algorithms, graphics processing techniques, web programming, information retrieval techniques on the web, etc. The program also provides complementary knowledge of English, Economics and Marketing.</p>
             </div>
+
+            <h3 class="resume-title">Volunteering</h3>
+            <div class="resume-item">
+              <h4>President</h4>
+              <h5>March 2016 - December 2017</h5>
+              <a href="https://www.lsaciasi.ro" target="_blank"><p><em>League of students of the Faculty of Automatic Control and Computer Engineering, Iași, Romania</em></p></a>
+              <p>The Master’s in Distributed Systems and Web Technologies provides students with basic computer programming and algorithm design, in-depth knowledge of parallel and distributed computing, including advanced algorithms specific to these paradigms, distributed application design, cluster technologies, grid and cloud concepts, service oriented programming techniques, modeling and estimation of distributed system reliability, image processing and distributed visualization as well as analysis and development of multi-agent systems.</p>
+            </div>
+            <div class="resume-item">
+              <h4>General Secretary</h4>
+              <h5>May 2015 - February 2016</h5>
+              <a href="https://www.lsaciasi.ro" target="_blank"><p><em>League of students of the Faculty of Automatic Control and Computer Engineering, Iași, Romania</em></p></a>
+              <li>Helping with training and development</li>
+              <li>Monitor members participation in projects</li>
+              <li>Stay in contact with other NGOs, the faculty, the university and companies</li>
+              <li>Manage the flow of operations</li>
+            </div>
+            <div class="resume-item">
+              <h4>Member</h4>
+              <h5>October 2014 - April 2015</h5>
+              <a href="https://www.lsaciasi.ro" target="_blank"><p><em>League of students of the Faculty of Automatic Control and Computer Engineering, Iași, Romania</em></p></a>
+              <li>Involved in the projects developed by L.S.A.C.</li>
+              <li>Coordinate the advertising for the National IT contest "IT Marathon", 2015 edition, organized by L.S.A.C. Created the first version of the contest website <a href="https://www.itmarathon.lsaciasi.ro" target="_blank">itmarathon.lsaciasi.ro</a></li>
+            </div>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
+              <h4>Software Engineer</h4>
+              <h5>August 2019 - Present</h5>
+              <p><em>Expleo Iberia, Barcelona, Spain </em></p>
               <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
+                <li>Developing a 48V battery management for MBL Evo and Audi AG platform Main tasks: Integration of CAN and CAN FD, integration of sleep/wake up, implementation of a Network manager state machine to fulfill the requirements, integration of new SW-C</li>
                 <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
                 <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
                 <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <h4>Technical Specialist</h4>
+              <h5>March 2019 - July 2019</h5>
+              <p><em>Expleo Romania, Iași, Romania</em></p>
+              <ul>
+                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
+                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
+                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
+                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Software Developer</h4>
+              <h5>July 2017 - February 2019</h5>
+              <p><em>Expleo Romania, Iași, Romania</em></p>
+              <ul>
+                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
+                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
+                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
+                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Junior Software Developer</h4>
+              <h5>September 2016 - February 2017</h5>
+              <p><em>GEMINI CAD SYSTEMS, Iași, Romania</em></p>
+              <ul>
+                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
+                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
+                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
+                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Internship</h4>
+              <h5>July 2016 - September 2016</h5>
+              <p><em>GEMINI CAD SYSTEMS, Iași, Romania</em></p>
+              <ul>
+                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
+                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
+                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
+                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Junior Software Developer</h4>
+              <h5>May 2015 - April 2016</h5>
+              <p><em>Continental Romania, Iași, Romania</em></p>
               <ul>
                 <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
                 <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
