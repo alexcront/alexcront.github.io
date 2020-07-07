@@ -60,7 +60,7 @@
         <div class="social-links mt-3 text-center">
           <a href="https://www.facebook.com/cront.alexandru" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
           <a href="https://join.skype.com/invite/gxSnXZ2dPBBu" class="google-plus" target="_blank"><i class="bx bxl-skype"></i></a>
-          <a href="https://www.linkedin.com/in/alexandru-marian-cron%C8%9B-969b38ba/" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://www.linkedin.com/in/alexandru-cront" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
         </div>
       </div>
 
@@ -451,7 +451,7 @@ Engineering, representing the students in the Faculty Council and University Sen
               <h5>May 2015 - April 2016</h5>
               <p><em>Continental Romania, Iași, Romania</em></p>
               <ul>
-                <li>Working in the IIC department, in the HMI team, on speech recognition project using C++.</li>
+                <li>Working in the IIC department, in the HMI team, on a cross-platform speech recognition project using C++.</li>
                 <li>Working with Agile software development methodology.</li>
               </ul>
             </div>
