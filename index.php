@@ -289,7 +289,7 @@ Engineering, representing the students in the Faculty Council and University Sen
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
               <h4>Alexandru-Marian Cronț</h4>
-              <p><em>Innovative and deadline-driven Embedded Software Engineer with 3+ years of experience working for several OEMs and Tier1 suppliers in the automotive SW sector, in Application and BSW, adapting easy to the changes with strong knowledge of Autosar.</em></p>
+              <p><em>Innovative and deadline-driven Embedded Software Engineer with 3+ years of experience and strong knowledge of AUTOSAR, working for several OEMs and Tier1 suppliers in the automotive SW sector, in Application and BSW, adapting quickly to the changes.</em></p>
               <ul>
                 <li>Barcelona, Spain</li>
                 <li>+34 641 48 81 52</li>
