@@ -148,17 +148,17 @@ Engineering, representing the students in the Faculty Council and University Sen
 
         <div class="row">
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
-            <div class="icon"><i class="icofont-computer"></i></div>
+            <div class="icon"><i class="icofont-compass-alt-1"></i></div>
             <h4 class="title">Romanian</h4>
             <p class="description">Mother tongue</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon"><i class="icofont-chart-bar-graph"></i></div>
+            <div class="icon"><i class="icofont-compass-alt-3"></i></div>
             <h4 class="title">English</h4>
             <p class="description">Advanced</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon"><i class="icofont-earth"></i></div>
+            <div class="icon"><i class="icofont-compass-alt-4"></i></div>
             <h4 class="title">Spanish</h4>
             <p class="description">Beginner</p>
           </div>
@@ -187,9 +187,9 @@ Engineering, representing the students in the Faculty Council and University Sen
             </div>
 
             <div class="progress">
-              <span class="skill">Coding <i class="val">100%</i></span>
+              <span class="skill">Coding <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -221,7 +221,7 @@ Engineering, representing the students in the Faculty Council and University Sen
             <div class="progress">
               <span class="skill">V/W-Model <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -242,32 +242,32 @@ Engineering, representing the students in the Faculty Council and University Sen
 
         <div class="row">
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
-            <div class="icon"><i class="icofont-computer"></i></div>
+            <div class="icon"><i class="icofont-team"></i></div>
             <h4 class="title">Team player</h4>
             <p class="description"></p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon"><i class="icofont-chart-bar-graph"></i></div>
+            <div class="icon"><i class="icofont-adjust"></i></div>
             <h4 class="title">Adaptable</h4>
             <p class="description"></p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon"><i class="icofont-earth"></i></div>
+            <div class="icon"><i class="icofont-ui-settings"></i></div>
             <h4 class="title">Problem solver</h4>
             <p class="description"></p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon"><i class="icofont-image"></i></div>
+            <div class="icon"><i class="icofont-chart-histogram-alt"></i></div>
             <h4 class="title"><a href="">Quality focus</a></h4>
             <p class="description"></p>
           </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon"><i class="icofont-settings"></i></div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
+            <div class="icon"><i class="icofont-business-man"></i></div>
             <h4 class="title"><a href="">Leadership</a></h4>
             <p class="description"></p>
           </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon"><i class="icofont-tasks-alt"></i></div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
+            <div class="icon"><i class="icofont-speech-comments"></i></div>
             <h4 class="title"><a href="">Communication</a></h4>
             <p class="description"></p>
           </div>
@@ -609,42 +609,42 @@ Engineering, representing the students in the Faculty Council and University Sen
             <p class="description">For signal simulation on the CAN</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-            <div class="icon"><i class="icofont-settings"></i></div>
+            <div class="icon"><i class="icofont-code"></i></div>
             <h4 class="title"><a href="">WinIdea</a></h4>
             <p class="description">Debug the code implementation</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
-            <div class="icon"><i class="icofont-tasks-alt"></i></div>
+            <div class="icon"><i class="icofont-cube"></i></div>
             <h4 class="title"><a href="">Lauterbach</a></h4>
             <p class="description">Debug the code implementation.</p>
           </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon"><i class="icofont-image"></i></div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="600">
+            <div class="icon"><i class="icofont-eye-alt"></i></div>
             <h4 class="title"><a href="">VectorCAST</a></h4>
             <p class="description">Perform Unit Test on the code.</p>
           </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="700">
             <div class="icon"><i class="icofont-settings"></i></div>
             <h4 class="title"><a href="">VFlash</a></h4>
             <p class="description">Flash software on physical hardware.</p>
           </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
-            <div class="icon"><i class="icofont-tasks-alt"></i></div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="800">
+            <div class="icon"><i class="icofont-briefcase"></i></div>
             <h4 class="title"><a href="">Jira</a></h4>
             <p class="description">Agile project manangement.</p>
           </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon"><i class="icofont-image"></i></div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="900">
+            <div class="icon"><i class="icofont-bullseye"></i></div>
             <h4 class="title"><a href="">Crucible</a></h4>
             <p class="description">Perform implementation and code reviews.</p>
           </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-            <div class="icon"><i class="icofont-settings"></i></div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="1000">
+            <div class="icon"><i class="icofont-bars"></i></div>
             <h4 class="title"><a href="">QAC</a></h4>
             <p class="description">Perform static analysis to assure that the code is MISRA error free.</p>
           </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
-            <div class="icon"><i class="icofont-tasks-alt"></i></div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="1100">
+            <div class="icon"><i class="icofont-addons"></i></div>
             <h4 class="title"><a href="">Polyspace</a></h4>
             <p class="description">Perform dynamic analysis.</p>
           </div>
@@ -666,16 +666,16 @@ Engineering, representing the students in the Faculty Council and University Sen
           <div class="col-lg-6" data-aos="fade-up">
 
             <div class="progress">
-              <span class="skill">C <i class="val">80%</i></span>
+              <span class="skill">C <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">C++ <i class="val">100%</i></span>
+              <span class="skill">C++ <i class="val">60%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -691,23 +691,23 @@ Engineering, representing the students in the Faculty Council and University Sen
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
 
             <div class="progress">
-              <span class="skill">HTML <i class="val">80%</i></span>
+              <span class="skill">HTML <i class="val">60%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">CSS <i class="val">70%</i></span>
+              <span class="skill">CSS <i class="val">60%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Javascript <i class="val">90%</i></span>
+              <span class="skill">Javascript <i class="val">60%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
