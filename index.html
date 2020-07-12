@@ -375,6 +375,7 @@ Engineering, representing the students in the Faculty Council and University Sen
                 <li>Write documentation for the new concepts added to the project;</li>
                 <li>SW-Configuration Management(SVN);</li>
                 <li>Flash software on physical hardware (WinIDEA, vFlash);</li>
+                <li>Main tasks: Integration of CAN and CAN FD, implementation of low power mode, implementation of sleep/wake up, implementation of a Network manager state machine to fulfill the customer requirements, integration of new SW-C, implementation of E2E protection, implementation of a python script for memory report</li>
               </ul>
               <p><strong>Put the bases for a 48V battery management demo project NBO. Client: A123 Systems</strong></p>
             </div>
@@ -452,6 +453,7 @@ Engineering, representing the students in the Faculty Council and University Sen
               <p><em>Continental Romania, Iași, Romania</em></p>
               <ul>
                 <li>Working in the IIC department, in the HMI team, on a cross-platform speech recognition project using C++.</li>
+                <li>Implementation of the assigned task, unit test of the implementaion</li>
                 <li>Working with Agile software development methodology.</li>
               </ul>
             </div>
