@@ -453,7 +453,7 @@ Engineering, representing the students in the Faculty Council and University Sen
               <p><em>Continental Romania, Iași, Romania</em></p>
               <ul>
                 <li>Working in the IIC department, in the HMI team, on a cross-platform speech recognition project using C++.</li>
-                <li>Implementation of the assigned task, unit test of the implementaion</li>
+                <li>Implementation of the assigned task, unit test of the implementation</li>
                 <li>Working with Agile software development methodology.</li>
               </ul>
             </div>
