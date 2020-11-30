@@ -375,7 +375,7 @@ Engineering, representing the students in the Faculty Council and University Sen
                 <li>Write documentation for the new concepts added to the project;</li>
                 <li>SW-Configuration Management(SVN);</li>
                 <li>Flash software on physical hardware (WinIDEA, vFlash);</li>
-                <li>Main tasks: Integration of CAN and CAN FD, implementation of low power mode, implementation of sleep/wake up, implementation of a Network manager state machine to fulfill the customer requirements, integration of new SW-C, implementation of E2E protection, implementation of a python script for memory report</li>
+                <li>Main tasks: Integration of CAN and CAN FD, implementation of low power mode, implementation of sleep/wake up, implementation of a Network manager state machine to fulfill the customer requirements, integration of new SW-C, implementation of E2E protection</li>
               </ul>
               <p><strong>Put the bases for a 48V battery management demo project NBO. Client: A123 Systems</strong></p>
             </div>
